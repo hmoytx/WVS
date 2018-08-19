@@ -225,14 +225,14 @@ class Ui_TabWidget(object):
 
     def retranslateUi(self, TabWidget):
         _translate = QtCore.QCoreApplication.translate
-        TabWidget.setWindowTitle(_translate("TabWidget", "ZAWVSV         by--abcde--"))
+        TabWidget.setWindowTitle(_translate("TabWidget", "GAWVS         by hmoytx"))
         TabWidget.setWhatsThis(_translate("TabWidget", "<html><head/><body><p>C段</p></body></html>"))
         self.label_17.setText(_translate("TabWidget", "<h3>简单集成了一些常用的工具接口</h3>"))
         self.label_18.setText(_translate("TabWidget", "<h3>用python开发，ui是pyqt</h3>"))
         self.label_19.setText(_translate("TabWidget", "<h3>漏洞poc来自网上公开，共300余个，在此表示感谢</h3>"))
         self.label_20.setText(_translate("TabWidget", "<h3>本工具仅限于进行漏洞验证，如若因此引起相关法律问题，作者概不负责</h3>"))
         self.label_22.setText(_translate("TabWidget", "<h3>对于后续可继续开发，也可添加漏洞到目录下</h3>"))
-        self.label_23.setText(_translate("TabWidget", "<h2><font color=red>浙江政安信息安全研究中心</font></h2>"))
+        self.label_23.setText(_translate("TabWidget", "<h2><font color=red>gakki的老公</font></h2>"))
         self.label_24.setText(_translate("TabWidget", "<h3>         2018.7</h3>"))
         TabWidget.setTabText(TabWidget.indexOf(self.tab_4), _translate("TabWidget", "简介"))
         self.label.setText(_translate("TabWidget", "网站："))
@@ -310,7 +310,7 @@ class Ui_TabWidget(object):
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'SimSun\'; font-size:9pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:12pt;\">#时间原因暂时不接入该功能</span></p></body></html>"))
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:12pt;\">#时暂时不接入该功能</span></p></body></html>"))
         TabWidget.setTabText(TabWidget.indexOf(self.tab_6), _translate("TabWidget", "信息泄漏检测"))
         self.label_15.setText(_translate("TabWidget", "网站："))
         self.pushButton_10.setText(_translate("TabWidget", "检测"))
